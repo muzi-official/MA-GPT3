@@ -1,11 +1,11 @@
-Modern UI/UX GPT-3
-<hr />
-Demo Link
-<hr />
+<h1>Modern UI/UX GPT-3</h1>
+
+<h1>Demo Link</h1>
+
 <h1>Live Site</h1>
 
-<img src="darkMuz" />
-
+<!-- <img src="darkMuz" />
+ -->
 
 
 React Functional components and their reusability
