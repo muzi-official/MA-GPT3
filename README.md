@@ -1,13 +1,12 @@
 Modern UI/UX GPT-3
-
+<hr />
+Demo Link
+<hr />
+<h1>Live Site</h1>
 
 <img src="darkMuz" />
 
-Demo Link
 
-Live Site
-
-<hr />
 
 React Functional components and their reusability
 React file and folder structure
