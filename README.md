@@ -1,7 +1,7 @@
 Modern UI/UX GPT-3
 
 
-<img src="" />
+<img src="darkMuz" />
 
 Demo Link
 
