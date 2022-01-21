@@ -4,9 +4,10 @@
 
 <h1>Live Site</h1>
 
-![alt text](https://github.com/[muzi-official]/[MA-GPT3]/[branch]/lightMuz.png?raw=true)
+<img src="https://github.com/muzi-official/MA-GPT3/blob/master/darkMuz.PNG" />
 
-![alt text](https://github.com/[muzi-official]/[MA-GPT3]/[branch]/darkMuz.png?raw=true)
+<img src="https://github.com/muzi-official/MA-GPT3/blob/master/lightMuz.PNG" />
+
 
 
 React Functional components and their reusability
