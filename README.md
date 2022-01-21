@@ -7,6 +7,7 @@ Demo Link
 
 Live Site
 
+<hr />
 
 React Functional components and their reusability
 React file and folder structure
