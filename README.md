@@ -6,8 +6,7 @@ https://www.youtube.com/watch?v=8pRMNWz__8w
 <h1>Live Site</h1>
 https://ma-crypt3.web.app/
 
-
-
+<br /><br/>
 
 <img src="https://github.com/muzi-official/MA-GPT3/blob/master/darkMuz.PNG" />
 
