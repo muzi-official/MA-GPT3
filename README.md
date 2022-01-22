@@ -2,6 +2,8 @@
 
 <h1>Demo Link</h1>
 
+https://ma-crypt3.web.app/
+
 <h1>Live Site</h1>
 
 <img src="https://github.com/muzi-official/MA-GPT3/blob/master/darkMuz.PNG" />
